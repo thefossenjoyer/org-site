@@ -11,6 +11,11 @@ jobs:
     steps:
       - name: Check Out
         uses: actions/checkout@v2
+<<<<<<< HEAD
+=======
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+>>>>>>> 3996c17 (Updating.)
 
       - name: Install Emacs
         run: sudo apt install emacs-nox --yes
