@@ -1,0 +1,24 @@
+#+TITLE: About me
+#+AUTHOR: thefossenjoyer
+
+* About me
+Hello. I go by =thefossenjoyer= on the Internet.
+
+I never tried blogging, so Imma keep this short.
+
+Tl;dr, I am a classical guitarist and a programmer.
+
+* My software
+
+** My OS
+My *current* daily driver is =GuixOS=, a GNU/Linux distro based on the =guix= package manager.
+Guix is a functional pkg manager, highly inspired by [[https://nixos.org/][Nix]].
+
+As it shouldn't be suprising, by default there *isn't any* non-free software in guix's repos.
+Talking about non-free software, Guix System uses =Linux libre= instead of the full Linux kernel. The reason for that is quite obvious. There are some proprietary blobs in the kernel (drivers..).
+
+Of course, the community found a way around these limitations. There is a [[https://gitlab.com/nonguix/nonguix][repo]] with non-free software. Also, [[https://youtube.com/channel/UCAiiOTio8Yu69c3XnR7nQBQ][System Crafters]] provides a custom ISO with the full Linux kernel and the repo already set up.
+
+** My text editor
+
+I daily drive Emacs. I've hopped between Emacs and Neovim few times. I don't think I'll switch back to Neovim anytime soon(sorry my friend :p).
