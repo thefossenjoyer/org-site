@@ -5,4 +5,4 @@
 Again, welcome to my site!
 
 * A TOC, sorta
-- [["./about-me.org"][About me]]
+- [[./about-me.org][About me]]
